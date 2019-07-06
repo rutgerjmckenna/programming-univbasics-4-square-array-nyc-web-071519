@@ -1,9 +1,7 @@
 def square_array(array)
   new_array = []
   
-  while counter < array.length do 
-   new_array << (array[counter]**)
-   counter += 1
+  array.each do |squared|
   end
 end
 
